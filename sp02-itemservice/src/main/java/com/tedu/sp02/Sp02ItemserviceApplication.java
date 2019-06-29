@@ -10,6 +10,7 @@ public class Sp02ItemserviceApplication {
 	public static void main(String[] args) {
 		
 		//111111111111111111
+		//155454545
 		SpringApplication.run(Sp02ItemserviceApplication.class, args);
 	}
 
