@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sp12-cnfig
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Jason笑笑
+Implementation-Vendor-Id: com.tedu
+Build-Jdk: 1.8.0_45
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sp12-cnfig
+Created-By: Maven Integration for Eclipse
+
